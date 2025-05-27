@@ -4,5 +4,23 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "name": "todo-list-app",
+  "description": "WebDeb Lab 4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuraidoXenpaI/todo-list-app.git"
+  },
+  "author": "Jon Clyde Dagaang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KuraidoXenpaI/todo-list-app/issues"
+  },
+  "homepage": "https://github.com/KuraidoXenpaI/todo-list-app#readme"
 }
